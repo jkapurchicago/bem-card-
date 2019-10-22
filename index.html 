@@ -1,0 +1,40 @@
+<htmL> 
+    <head> 
+
+    </head>
+<body>
+<h1> TEST!</h1>    
+</body> 
+</htmL>
+
+<!--
+<html> 
+    <head> 
+    <link rel = "stylesheet" href="style.css"> 
+    <link rel="stylesheet" href="/card/style.css"> 
+    </head>
+
+    <body> 
+<main class ="container"> 
+    <article class="card"> 
+        <header class="card__image-wrapper">
+            <img src= "http://placeholder.it/350x150" alt="thumbnail/"> 
+        </header>
+
+        <section class="card__information-wrapper"> 
+
+            <div class="card_information"> 
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id, quo?</p>
+            </div>
+            
+            <button class="button button--success"> Read more </button>
+
+       
+        </section>
+
+    </article><!-- end cardjjjjjj-->
+
+    </body>
+</html>
+
+-->
